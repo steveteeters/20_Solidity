@@ -1,4 +1,3 @@
-=================
 # Homework 20 - Solidity
 
 ## Objectives
