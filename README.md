@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Homework 20 - Solidity
 
 ## Objectives
@@ -15,3 +16,6 @@
 
 ---
 
+=======
+# 20_Solidity
+>>>>>>> e412d30fcd799dbf39272ed51412938e11ad200a
