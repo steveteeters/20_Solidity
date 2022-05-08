@@ -8,11 +8,11 @@
 ---
 
 ## To Do
-- ### [X] Create a Joint Savings Account Contract in Solidity.
+- ### [] Create a Joint Savings Account Contract in Solidity.
 
-- ### [X] Compile and Deploy my Contract in the JavaScript VM.
+- ### [] Compile and Deploy my Contract in the JavaScript VM.
 
-- ### [X] Interact with my Deployed Smart Contract.
+- ### [] Interact with my Deployed Smart Contract.
 
 ---
 
